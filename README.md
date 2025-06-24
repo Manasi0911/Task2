@@ -1,4 +1,5 @@
-What You Did in This Task
+What You Did in This Task:
+
 Loaded the dataset using pandas to view rows, columns, and types.
 
 Checked missing values and data types to understand data quality.
